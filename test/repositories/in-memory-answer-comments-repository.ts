@@ -1,4 +1,4 @@
-import { AnswerCommentsRepository } from '@/domain/forum/applications/repositories/answer-comment-repository'
+import { AnswerCommentsRepository } from '@/domain/forum/application/repositories/answer-comments-repository'
 import { AnswerComment } from '@/domain/forum/enterprise/entities/answer-comment'
 import { PaginationParams } from '@/core/repositories/pagination-params'
 
